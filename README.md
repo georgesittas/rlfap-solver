@@ -30,9 +30,9 @@ To run the solver, execute the command `python solve.py`, after configuring it a
 comment. The problem instances that were tested can be found inside the directory `rlfap`. Each instance is described by three text files, prefixed by
 `var`, `dom` and `ctr`, respectively, and followed by the id of the instance. Their format is described below:
 
-- Variable (var-prefixed) file: `<number of variables> (<variable id> <domain id>)+`
-- Domain (dom-prefixed) file: `<number of domains> (<domain id> <number of values in domain> <domain values>*)+`
-- Constraint (ctr-prefixed) file: `<number of constraints> (<variable id> <variable id> ">" <number (threshold)>)+`
+- Variable (var-prefixed) file: `<num_vars> (<var_id> <dom_id>)+`
+- Domain (dom-prefixed) file: `<num_doms> (<dom_id> <dom_size> <dom_values>*)+`
+- Constraint (ctr-prefixed) file: `<num_constraints> (<var_id> <var_id> ">" <number>)+`
 
 ## Results
 
