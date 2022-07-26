@@ -8,7 +8,7 @@ communication network.
 ## CSP Modelling
 
 The variables of this problem are the radio links, their domains are frequency ranges and the associated (binary) constraints are of the form
-|x - y| > k, where x and y are variables and k is a positive integer (interference threshold). The goal is to find an assignment such that all
+`|x - y| > k`, where x and y are variables and k is a positive integer (interference threshold). The goal is to find an assignment such that all
 of the constraints are satisfied for a given instance of the problem.
 
 ## Implementation
