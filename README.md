@@ -56,7 +56,7 @@ gives us a hint about the effectiveness of said algorithm for a given instance.
 By examining the resulting tables, one can notice that Min-Conflicts is a bad algorithm choice in our case, which may happen because
 the solutions are simply sparsely distributed in the search space. Also, note that only the MAC algorithm was able to find a solution for every
 instance of the problem, as well as it seems to be the fastest among the possible choices. The FC-CBJ algorithm combination is an interesting one,
-as it provides better results (visited nodes, constraint checks) for some of the instances, compared to MAC, and is also generally better than FC.
+as it provides better results (visited nodes, constraint checks) for some of the instances, compared to MAC, and is generally better than FC.
 
 Finally, the satisfiability of each instance is shown below.
 
