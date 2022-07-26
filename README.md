@@ -1,7 +1,7 @@
 # RLFAP Solver
 
 For this project, I've implemented a solver for the [Radio Link Frequency Assignment Problem](https://miat.inrae.fr/schiex/rlfap.shtml) in Python, with
-the help of [AIMA's CSP code](https://github.com/aimacode/aima-python). This is an NP-hard optimization problem, where we aim to provide communication 
+the help of [AIMA's CSP code repo](https://github.com/aimacode/aima-python). This is an NP-hard optimization problem, where we aim to provide communication 
 channels from limited spectral resources whilst keeping to a minimum the interference suffered by those whishing to communicate in a given radio
 communication network.
 
