@@ -1,0 +1,82 @@
+Instance 11: UNSAT
+# of assignments: 1680
+# of constraint checks: 9563918
+# of violating variables: 4 out of 680
+Elapsed time: 0.2102 min
+
+
+Instance 7-w1-f4: UNSAT
+# of assignments: 1400
+# of constraint checks: 1500704
+# of violating variables: 68 out of 400
+Elapsed time: 0.0407 min
+
+
+Instance 3-f11: UNSAT
+# of assignments: 1400
+# of constraint checks: 6106025
+# of violating variables: 46 out of 400
+Elapsed time: 0.1285 min
+
+
+Instance 3-f10: UNSAT
+# of assignments: 1400
+# of constraint checks: 6145265
+# of violating variables: 34 out of 400
+Elapsed time: 0.1390 min
+
+
+Instance 7-w1-f5: UNSAT
+# of assignments: 1400
+# of constraint checks: 1501957
+# of violating variables: 92 out of 400
+Elapsed time: 0.0415 min
+
+
+Instance 6-w2: UNSAT
+# of assignments: 1200
+# of constraint checks: 1637857
+# of violating variables: 88 out of 200
+Elapsed time: 0.0386 min
+
+
+Instance 8-f11: UNSAT
+# of assignments: 1680
+# of constraint checks: 7988829
+# of violating variables: 245 out of 680
+Elapsed time: 0.1835 min
+
+
+Instance 14-f28: UNSAT
+# of assignments: 1916
+# of constraint checks: 9534095
+# of violating variables: 439 out of 916
+Elapsed time: 0.2256 min
+
+
+Instance 8-f10: UNSAT
+# of assignments: 1680
+# of constraint checks: 8010590
+# of violating variables: 228 out of 680
+Elapsed time: 0.1851 min
+
+
+Instance 14-f27: UNSAT
+# of assignments: 1916
+# of constraint checks: 9551781
+# of violating variables: 339 out of 916
+Elapsed time: 0.2237 min
+
+
+Instance 2-f24: UNSAT
+# of assignments: 1200
+# of constraint checks: 3002582
+# of violating variables: 10 out of 200
+Elapsed time: 0.0590 min
+
+
+Instance 2-f25: UNSAT
+# of assignments: 1200
+# of constraint checks: 2930354
+# of violating variables: 12 out of 200
+Elapsed time: 0.0589 min

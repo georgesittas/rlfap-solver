@@ -1,0 +1,70 @@
+Instance 11: SAT
+# of assignments: 6228
+# of constraint checks: 1414812
+Elapsed time: 0.1981 min
+
+
+Instance 7-w1-f4: SAT
+# of assignments: 31130
+# of constraint checks: 1168287
+Elapsed time: 0.1879 min
+
+
+Instance 3-f11: UNSAT
+# of assignments: 1814304
+# of constraint checks: 297542774
+Elapsed time: 12.871 min
+
+
+Instance 3-f10: SAT
+# of assignments: 122229
+# of constraint checks: 15517541
+Elapsed time: 0.6801 min
+
+
+Instance 7-w1-f5: UNDECIDABLE
+# of assignments: 3433278
+# of constraint checks: 210078310
+Elapsed time: 20.000 min
+
+
+Instance 6-w2: UNSAT
+# of assignments: 253
+# of constraint checks: 47198
+Elapsed time: 0.0015 min
+
+
+Instance 8-f11: UNSAT
+# of assignments: 204922
+# of constraint checks: 40136853
+Elapsed time: 1.7621 min
+
+
+Instance 14-f28: UNSAT
+# of assignments: 45789
+# of constraint checks: 2536632
+Elapsed time: 1.2356 min
+
+
+Instance 8-f10: UNDECIDABLE
+# of assignments: 1937749
+# of constraint checks: 299121902
+Elapsed time: 20.000 min
+
+
+Instance 14-f27: UNDECIDABLE
+# of assignments: 881551
+# of constraint checks: 48921760
+Elapsed time: 20.000 min
+
+
+Instance 2-f24: SAT
+# of assignments: 463
+# of constraint checks: 35686
+Elapsed time: 0.0045 min
+
+
+Instance 2-f25: UNSAT
+# of assignments: 135709
+# of constraint checks: 25328659
+Elapsed time: 1.8037 min
