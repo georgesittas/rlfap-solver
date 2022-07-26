@@ -17,7 +17,7 @@ The solver exposes various options to the user: which search algorithm to use, w
 constraint propagation method to utilize and what timeout limit to impose on the search. The algorithms of interest for this project are:
 
 - Forward Checking ([FC](https://ktiml.mff.cuni.cz/~bartak/constraints/propagation.html#FC))
-- Maintain Arc Consistency ([MAC](https://ktiml.mff.cuni.cz/~bartak/constraints/propagation.html#LA))
+- Maintaining Arc Consistency ([MAC](https://ktiml.mff.cuni.cz/~bartak/constraints/propagation.html#LA))
 - FC + Conflict-Based Backjumping ([CBJ](https://en.wikipedia.org/wiki/Backjumping#Conflict-based_backjumping_(aka_conflict-directed_backjumping_(cbj)))).
 - Local Search ([Min-Conflicts](https://en.wikipedia.org/wiki/Min-conflicts_algorithm)), with an optional iteration threshold (max steps). 
 
@@ -26,7 +26,7 @@ found [here](https://github.com/GeorgeSittas/RLFAP-Solver/tree/main/readings).
 
 ## Usage
 
-To run the solver, execute the command `python solve.py`, after configuring it as needed. Instructions are provided inside this script in the form of
+To run the solver, execute the command `python solve.py`, after configuring it as needed. Instructions are provided inside this script in the form of a
 comment. The problem instances that were tested can be found inside the directory `rlfap`. Each instance is described by three text files, prefixed by
 `var`, `dom` and `ctr`, respectively, and followed by the id of the instance. Their format is described below:
 
