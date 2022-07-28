@@ -18,7 +18,7 @@ constraint propagation method to utilize and what timeout limit to impose on the
 
 - Forward Checking ([FC](https://ktiml.mff.cuni.cz/~bartak/constraints/propagation.html#FC))
 - Maintaining Arc Consistency ([MAC](https://ktiml.mff.cuni.cz/~bartak/constraints/propagation.html#LA))
-- FC + Conflict-Based Backjumping ([CBJ](https://en.wikipedia.org/wiki/Backjumping#Conflict-based_backjumping_(aka_conflict-directed_backjumping_(cbj)))).
+- FC + Conflict-directed Backjumping ([CBJ](https://en.wikipedia.org/wiki/Backjumping#Conflict-based_backjumping_(aka_conflict-directed_backjumping_(cbj)))).
 - Local Search ([Min-Conflicts](https://en.wikipedia.org/wiki/Min-conflicts_algorithm)), with an optional iteration threshold (max steps). 
 
 Also provided is an implementation of a dynamic weight-based variable reordering heuristic,  called dom-wdeg, which is based on the corresponding papers 
