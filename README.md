@@ -1,6 +1,6 @@
 # RLFAP Solver
 
-The [Radio Link Frequency Assignment Problem](https://miat.inrae.fr/schiex/rlfap.shtml) is an NP-hard optimization problem, where we aim to provide 
+[Radio Link Frequency Assignment](https://miat.inrae.fr/schiex/rlfap.shtml) is an NP-hard optimization problem, where we aim to provide 
 communication channels from limited spectral resources whilst keeping to a minimum the interference suffered by those whishing to communicate in a
 given radio communication network. The solver implemented in this repo utilizes [AIMA's CSP code repo](https://github.com/aimacode/aima-python).
 
