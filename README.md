@@ -36,7 +36,7 @@ comment. The problem instances that were tested can be found inside the director
 ## Results
 
 The heuristics dom-wdeg and [lcv](https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-variables-models#dynamic-ordering) have been used in all
-trials. The per-instance results can be viewed in table form (.png) [here](https://github.com/GeorgeSittas/RLFAP-Solver/tree/main/results). Various
+trials. The per-instance results can be viewed in table form [here](https://github.com/GeorgeSittas/RLFAP-Solver/tree/main/results). Various
 metrics were used to analyze the effectiveness of the algorithms, such as:
 
 - Number of visited nodes in the search tree, which is basically the number of variable assignments that were tested. If this value is small, it
